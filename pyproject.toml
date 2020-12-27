@@ -18,7 +18,7 @@ classifiers=[
 ]
 
 [tool.flit.metadata.urls]
-Documentation = "https://mstools.readthedocs.io"
+Documentation = "https://mstools.readthedocs.io/"
 
 [tool.flit.sdist]
 include = ["doc/"]
